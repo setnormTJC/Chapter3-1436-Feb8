@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> //similar to a "copy-paste" operation 
 
 using std::cout;
 using std::cin;
@@ -8,7 +8,8 @@ using std::string;
 
 #define print(text) std::cout << text << std::endl
 
-int main()
+#include "int.h"
+//int main()
 {
     cout << "adfasd" << endl;
 
